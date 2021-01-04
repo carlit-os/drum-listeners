@@ -1,4 +1,4 @@
-document.getElementsByClassName("w drum").addEventListener("click", playAudio);
+document.getElementsByClassName("w drum").addEventListener("click", playAudio("d"));
 
 
 function playAudio(sound){
